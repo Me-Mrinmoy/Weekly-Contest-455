@@ -37,6 +37,25 @@ Weekly-Contest-455/
 
 ---
 
+## 🌟 Support & Feedback
+
+If you found these solutions helpful:
+
+- ⭐ **Star this repo**
+- 🔄 **Fork and contribute**
+- 🐛 **Report issues or suggest improvements**
+
+---
+
+📬 Connect with Me
+🧑‍💻 GitHub – Me-Mrinmoy
+
+💼 LinkedIn – Mrinmoy Samanta
+
+📧 Email – mrinmoysamantamrinmoysamanta@gmail.com
+
+---
+
 ## 🚀 How to Use
 
 Clone this repository and run the Python files:
