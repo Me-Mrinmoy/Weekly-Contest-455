@@ -28,13 +28,14 @@ This repository contains my clean, optimized, and well-documented code submissio
 
 ## 📁 Folder Structure
 
+```
 Weekly-Contest-455/
-├── problem1.py
-├── problem2.py
-├── problem3.py
-├── problem4.py
-└── README.md
-
+├── problem1.py # Problem 1 solution
+├── problem2.py # Problem 2 solution
+├── problem3.py # Problem 3 solution
+├── problem4.py # Problem 4 solution
+└── README.md # Documentation and details
+```
 ---
 
 ## 🌟 Support & Feedback
@@ -47,12 +48,11 @@ If you found these solutions helpful:
 
 ---
 
-📬 Connect with Me
-🧑‍💻 GitHub – Me-Mrinmoy
+## 📬 Connect with Me
 
-💼 LinkedIn – Mrinmoy Samanta
-
-📧 Email – mrinmoysamantamrinmoysamanta@gmail.com
+- 🧑‍💻 GitHub – Me-Mrinmoy
+- 💼 LinkedIn – Mrinmoy Samanta
+- 📧 Email – mrinmoysamantamrinmoysamanta@gmail.com
 
 ---
 
