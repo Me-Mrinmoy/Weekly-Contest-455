@@ -50,9 +50,9 @@ If you found these solutions helpful:
 
 ## 📬 Connect with Me
 
-- 🧑‍💻 GitHub – Me-Mrinmoy
-- 💼 LinkedIn – Mrinmoy Samanta
-- 📧 Email – mrinmoysamantamrinmoysamanta@gmail.com
+- 🧑‍💻 **GitHub** – [Me-Mrinmoy](https://github.com/Me-Mrinmoy)  
+- 💼 **LinkedIn** – [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta)  
+- 📧 **Email** – mrinmoysamantamrinmoysamanta@gmail.com
 
 ---
 
